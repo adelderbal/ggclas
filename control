@@ -1,0 +1,9 @@
+Package: com.okanon.prefexam
+Name: PreferenceExam
+Depends: firmware (>= 11.0), mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is sample "PreferenceLoader" tweak :)
+Maintainer: okanon <flat.cydia37jins.pc@gmail.com>
+Author: okanon <flat.cydia37jins.pc@gmail.com>
+Section: Tweaks
