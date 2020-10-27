@@ -1,3 +1,4 @@
+#import <UIKit/UIKit.h>
 
 @interface FBSystemService : NSObject
 + (id)sharedInstance;

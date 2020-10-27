@@ -1,5 +1,5 @@
 ARCHS = arm64 arm64e
-TARGET = iphone:clang:11.2:11.0
+TARGET = iphone:clang:latest:11.0
 THEOS_DEVICE_IP = x.x.x.x
 THEOS_DEVICE_PORT = 22
 
